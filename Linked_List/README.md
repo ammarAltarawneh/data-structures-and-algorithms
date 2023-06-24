@@ -1,4 +1,4 @@
-# Singly Linked List Implementation in C#
+# Singly Linked List Implementation
 
 This repository contains a basic implementation of a singly linked list in C#. The linked list supports the following functionalities:
 
