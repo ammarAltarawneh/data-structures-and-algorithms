@@ -1,0 +1,15 @@
+F:\Linked-List\Linked-List\bin\Debug\net7.0\Linked-List.exe
+F:\Linked-List\Linked-List\bin\Debug\net7.0\Linked-List.deps.json
+F:\Linked-List\Linked-List\bin\Debug\net7.0\Linked-List.runtimeconfig.json
+F:\Linked-List\Linked-List\bin\Debug\net7.0\Linked-List.dll
+F:\Linked-List\Linked-List\bin\Debug\net7.0\Linked-List.pdb
+F:\Linked-List\Linked-List\obj\Debug\net7.0\Linked-List.csproj.AssemblyReference.cache
+F:\Linked-List\Linked-List\obj\Debug\net7.0\Linked-List.GeneratedMSBuildEditorConfig.editorconfig
+F:\Linked-List\Linked-List\obj\Debug\net7.0\Linked-List.AssemblyInfoInputs.cache
+F:\Linked-List\Linked-List\obj\Debug\net7.0\Linked-List.AssemblyInfo.cs
+F:\Linked-List\Linked-List\obj\Debug\net7.0\Linked-List.csproj.CoreCompileInputs.cache
+F:\Linked-List\Linked-List\obj\Debug\net7.0\Linked-List.dll
+F:\Linked-List\Linked-List\obj\Debug\net7.0\refint\Linked-List.dll
+F:\Linked-List\Linked-List\obj\Debug\net7.0\Linked-List.pdb
+F:\Linked-List\Linked-List\obj\Debug\net7.0\Linked-List.genruntimeconfig.cache
+F:\Linked-List\Linked-List\obj\Debug\net7.0\ref\Linked-List.dll
