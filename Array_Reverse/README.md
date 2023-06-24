@@ -2,7 +2,7 @@
 We are going to build a method that make reverse action for an array of numbers.
 
 ## Whiteboard Process
-![](./wight-bord.jpg)
+![](./Untitled%20(6).jpg)
 
 ## Approach & Efficiency
 
