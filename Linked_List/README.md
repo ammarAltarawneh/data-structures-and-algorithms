@@ -1,6 +1,6 @@
 # Singly Linked List Implementation
 
-This repository contains a basic implementation of a singly linked list in C#. The linked list supports the following functionalities:
+The linked list supports the following functionalities:
 
 1- Adding a node to the head of the list.
 
