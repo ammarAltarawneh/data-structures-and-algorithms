@@ -2,7 +2,7 @@
 We are going to build a method that insert a number in the middle of the array index.
 
 ## Whiteboard Process
-![](./WhiteBord.jpg)
+![](./Untitled%20(5).jpg)
 
 ## Approach & Efficiency
 
