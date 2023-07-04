@@ -1,0 +1,15 @@
+F:\linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.exe
+F:\linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.deps.json
+F:\linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.runtimeconfig.json
+F:\linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.dll
+F:\linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.pdb
+F:\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.csproj.AssemblyReference.cache
+F:\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.GeneratedMSBuildEditorConfig.editorconfig
+F:\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.AssemblyInfoInputs.cache
+F:\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.AssemblyInfo.cs
+F:\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.csproj.CoreCompileInputs.cache
+F:\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.dll
+F:\linked-list-kth\linked-list-kth\obj\Debug\net7.0\refint\linked-list-kth.dll
+F:\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.pdb
+F:\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.genruntimeconfig.cache
+F:\linked-list-kth\linked-list-kth\obj\Debug\net7.0\ref\linked-list-kth.dll
