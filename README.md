@@ -12,4 +12,4 @@
 
 5-
 
-6- LinkedList kth
+6- LinkedList kth [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/blob/main/linked-list-kth/README.md)
