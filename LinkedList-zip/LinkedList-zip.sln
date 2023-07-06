@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList-zip", "LinkedList-zip\LinkedList-zip.csproj", "{FFAF9213-3828-40F5-9E65-52D4F4B98B81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList-zip-Test", "LinkedList-zip-Test\LinkedList-zip-Test.csproj", "{8AD17413-2B15-4EBF-A178-625EADEF0856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFAF9213-3828-40F5-9E65-52D4F4B98B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAF9213-3828-40F5-9E65-52D4F4B98B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAF9213-3828-40F5-9E65-52D4F4B98B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAF9213-3828-40F5-9E65-52D4F4B98B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD17413-2B15-4EBF-A178-625EADEF0856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD17413-2B15-4EBF-A178-625EADEF0856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD17413-2B15-4EBF-A178-625EADEF0856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD17413-2B15-4EBF-A178-625EADEF0856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ED8CC18-08AC-4304-818F-F0FAE54B948C}
+	EndGlobalSection
+EndGlobal
