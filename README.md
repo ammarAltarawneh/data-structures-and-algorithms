@@ -12,4 +12,6 @@
 
 5-
 
-6- LinkedList kth [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/blob/main/linked-list-kth/README.md)
+6- Linked List kth [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/blob/main/linked-list-kth/README.md)
+
+7- Linked List zip

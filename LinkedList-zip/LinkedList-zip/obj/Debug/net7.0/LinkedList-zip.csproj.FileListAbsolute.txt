@@ -1,0 +1,15 @@
+F:\LinkedList-zip\LinkedList-zip\bin\Debug\net7.0\LinkedList-zip.exe
+F:\LinkedList-zip\LinkedList-zip\bin\Debug\net7.0\LinkedList-zip.deps.json
+F:\LinkedList-zip\LinkedList-zip\bin\Debug\net7.0\LinkedList-zip.runtimeconfig.json
+F:\LinkedList-zip\LinkedList-zip\bin\Debug\net7.0\LinkedList-zip.dll
+F:\LinkedList-zip\LinkedList-zip\bin\Debug\net7.0\LinkedList-zip.pdb
+F:\LinkedList-zip\LinkedList-zip\obj\Debug\net7.0\LinkedList-zip.csproj.AssemblyReference.cache
+F:\LinkedList-zip\LinkedList-zip\obj\Debug\net7.0\LinkedList-zip.GeneratedMSBuildEditorConfig.editorconfig
+F:\LinkedList-zip\LinkedList-zip\obj\Debug\net7.0\LinkedList-zip.AssemblyInfoInputs.cache
+F:\LinkedList-zip\LinkedList-zip\obj\Debug\net7.0\LinkedList-zip.AssemblyInfo.cs
+F:\LinkedList-zip\LinkedList-zip\obj\Debug\net7.0\LinkedList-zip.csproj.CoreCompileInputs.cache
+F:\LinkedList-zip\LinkedList-zip\obj\Debug\net7.0\LinkedList-zip.dll
+F:\LinkedList-zip\LinkedList-zip\obj\Debug\net7.0\refint\LinkedList-zip.dll
+F:\LinkedList-zip\LinkedList-zip\obj\Debug\net7.0\LinkedList-zip.pdb
+F:\LinkedList-zip\LinkedList-zip\obj\Debug\net7.0\LinkedList-zip.genruntimeconfig.cache
+F:\LinkedList-zip\LinkedList-zip\obj\Debug\net7.0\ref\LinkedList-zip.dll
