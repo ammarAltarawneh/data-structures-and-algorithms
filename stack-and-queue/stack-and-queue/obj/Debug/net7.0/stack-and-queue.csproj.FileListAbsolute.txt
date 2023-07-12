@@ -1,0 +1,15 @@
+F:\stack-and-queue\stack-and-queue\bin\Debug\net7.0\stack-and-queue.exe
+F:\stack-and-queue\stack-and-queue\bin\Debug\net7.0\stack-and-queue.deps.json
+F:\stack-and-queue\stack-and-queue\bin\Debug\net7.0\stack-and-queue.runtimeconfig.json
+F:\stack-and-queue\stack-and-queue\bin\Debug\net7.0\stack-and-queue.dll
+F:\stack-and-queue\stack-and-queue\bin\Debug\net7.0\stack-and-queue.pdb
+F:\stack-and-queue\stack-and-queue\obj\Debug\net7.0\stack-and-queue.csproj.AssemblyReference.cache
+F:\stack-and-queue\stack-and-queue\obj\Debug\net7.0\stack-and-queue.GeneratedMSBuildEditorConfig.editorconfig
+F:\stack-and-queue\stack-and-queue\obj\Debug\net7.0\stack-and-queue.AssemblyInfoInputs.cache
+F:\stack-and-queue\stack-and-queue\obj\Debug\net7.0\stack-and-queue.AssemblyInfo.cs
+F:\stack-and-queue\stack-and-queue\obj\Debug\net7.0\stack-and-queue.csproj.CoreCompileInputs.cache
+F:\stack-and-queue\stack-and-queue\obj\Debug\net7.0\stack-and-queue.dll
+F:\stack-and-queue\stack-and-queue\obj\Debug\net7.0\refint\stack-and-queue.dll
+F:\stack-and-queue\stack-and-queue\obj\Debug\net7.0\stack-and-queue.pdb
+F:\stack-and-queue\stack-and-queue\obj\Debug\net7.0\stack-and-queue.genruntimeconfig.cache
+F:\stack-and-queue\stack-and-queue\obj\Debug\net7.0\ref\stack-and-queue.dll
