@@ -15,3 +15,5 @@
 6- Linked List kth [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/blob/main/linked-list-kth/README.md)
 
 7- Linked List zip [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/blob/main/LinkedList-zip/README.md)
+
+8- Stack and Queue [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/blob/main/stack-and-queue/README.md)
