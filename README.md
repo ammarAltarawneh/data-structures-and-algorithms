@@ -17,3 +17,5 @@
 7- Linked List zip [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/blob/main/LinkedList-zip/README.md)
 
 8- Stack and Queue [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/blob/main/stack-and-queue/README.md)
+
+11- Stack Queue Pseudo [README]()
