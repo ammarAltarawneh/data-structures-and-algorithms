@@ -1,0 +1,15 @@
+F:\stack-queue-animal-shelter\stack-queue-animal-shelter\bin\Debug\net7.0\stack-queue-animal-shelter.exe
+F:\stack-queue-animal-shelter\stack-queue-animal-shelter\bin\Debug\net7.0\stack-queue-animal-shelter.deps.json
+F:\stack-queue-animal-shelter\stack-queue-animal-shelter\bin\Debug\net7.0\stack-queue-animal-shelter.runtimeconfig.json
+F:\stack-queue-animal-shelter\stack-queue-animal-shelter\bin\Debug\net7.0\stack-queue-animal-shelter.dll
+F:\stack-queue-animal-shelter\stack-queue-animal-shelter\bin\Debug\net7.0\stack-queue-animal-shelter.pdb
+F:\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.csproj.AssemblyReference.cache
+F:\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.GeneratedMSBuildEditorConfig.editorconfig
+F:\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.AssemblyInfoInputs.cache
+F:\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.AssemblyInfo.cs
+F:\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.csproj.CoreCompileInputs.cache
+F:\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.dll
+F:\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\refint\stack-queue-animal-shelter.dll
+F:\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.pdb
+F:\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.genruntimeconfig.cache
+F:\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\ref\stack-queue-animal-shelter.dll
