@@ -18,4 +18,4 @@
 
 8- Stack and Queue [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/blob/main/stack-and-queue/README.md)
 
-11- Stack Queue Pseudo [README]()
+11- Stack Queue Pseudo [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/tree/main/Stack-Queue-Pseudo)
