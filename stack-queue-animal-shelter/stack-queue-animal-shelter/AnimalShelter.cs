@@ -9,49 +9,55 @@ namespace stack_queue_animal_shelter
 {
     public class AnimalShelter
     {
-        Queue cats = new Queue();
-        Queue dogs = new Queue();
-
-        int catCounter = 1;
-        int dogCounter = 1;
+        Queue<Animal> animals = new Queue<Animal>();
 
         public void Enqueue(Animal animal)
         {
-            if (animal is Cat)
-            {
-                cats.Enqueue("Cat " + catCounter);
-                catCounter++;
-            }
-            else if (animal is Dog)
-            {
-                dogs.Enqueue("Dog " + dogCounter);
-                dogCounter++;
-            }
+            animals.Enqueue(animal);
         }
 
         public string Dequeue(string pref)
         {
-            if (pref == "cat")
+            Queue<Animal> tempQueue = new Queue<Animal>();
+
+            while (animals.Count > 0)
             {
-                return cats.Dequeue();
+                var animal = animals.Dequeue();
+                if (animal.Species == pref)
+                {
+                    return animal.Name;
+                }
+                tempQueue.Enqueue(animal);
             }
-            else if (pref == "dog")
+
+            while (tempQueue.Count > 0)
             {
-                return dogs.Dequeue();
+                animals.Enqueue(tempQueue.Dequeue());
             }
+
             return null;
         }
     }
 
     public class Animal
     {
+        public string Species { get; set; }
+        public string Name { get; set; }
     }
 
     public class Cat : Animal
     {
+        public Cat()
+        {
+            Species = "cat";
+        }
     }
 
     public class Dog : Animal
     {
+        public Dog()
+        {
+            Species = "dog";
+        }
     }
 }
