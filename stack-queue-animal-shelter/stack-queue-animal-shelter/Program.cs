@@ -21,16 +21,18 @@
             //pseudoQueue.Dequeue();
 
             AnimalShelter animalShelter = new AnimalShelter();
-            Animal cat = new Cat();
-            animalShelter.Enqueue(new Dog());
-            animalShelter.Enqueue(new Dog());
-            animalShelter.Enqueue(cat);
-            animalShelter.Enqueue(cat);
-            animalShelter.Enqueue(cat);
-            Console.WriteLine(animalShelter.Dequeue("cat"));
-            Console.WriteLine(animalShelter.Dequeue("cat"));
-            Console.WriteLine(animalShelter.Dequeue("dog"));
-            Console.WriteLine(animalShelter.Dequeue("at"));
+        Animal cat = new Cat();
+        cat.Name = "Fluffy";
+        animalShelter.Enqueue(new Dog() { Name = "Buddy" });
+        animalShelter.Enqueue(new Dog() { Name = "Max" });
+        animalShelter.Enqueue(cat);
+        animalShelter.Enqueue(cat);
+        animalShelter.Enqueue(cat);
+
+        Console.WriteLine(animalShelter.Dequeue("dog")); // Output: Buddy
+        Console.WriteLine(animalShelter.Dequeue("cat")); // Output: Fluffy
+        Console.WriteLine(animalShelter.Dequeue("dog")); // Output: null (No more dogs in the queue)
+        Console.WriteLine(animalShelter.Dequeue("cat")); // Output:  Fluffy
         }
     }
 }
