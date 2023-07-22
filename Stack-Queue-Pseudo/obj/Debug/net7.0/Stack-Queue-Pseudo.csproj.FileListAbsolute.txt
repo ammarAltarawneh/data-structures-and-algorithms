@@ -1,0 +1,15 @@
+F:\Stack-Queue-Pseudo\Stack-Queue-Pseudo\bin\Debug\net7.0\Stack-Queue-Pseudo.exe
+F:\Stack-Queue-Pseudo\Stack-Queue-Pseudo\bin\Debug\net7.0\Stack-Queue-Pseudo.deps.json
+F:\Stack-Queue-Pseudo\Stack-Queue-Pseudo\bin\Debug\net7.0\Stack-Queue-Pseudo.runtimeconfig.json
+F:\Stack-Queue-Pseudo\Stack-Queue-Pseudo\bin\Debug\net7.0\Stack-Queue-Pseudo.dll
+F:\Stack-Queue-Pseudo\Stack-Queue-Pseudo\bin\Debug\net7.0\Stack-Queue-Pseudo.pdb
+F:\Stack-Queue-Pseudo\Stack-Queue-Pseudo\obj\Debug\net7.0\Stack-Queue-Pseudo.csproj.AssemblyReference.cache
+F:\Stack-Queue-Pseudo\Stack-Queue-Pseudo\obj\Debug\net7.0\Stack-Queue-Pseudo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Stack-Queue-Pseudo\Stack-Queue-Pseudo\obj\Debug\net7.0\Stack-Queue-Pseudo.AssemblyInfoInputs.cache
+F:\Stack-Queue-Pseudo\Stack-Queue-Pseudo\obj\Debug\net7.0\Stack-Queue-Pseudo.AssemblyInfo.cs
+F:\Stack-Queue-Pseudo\Stack-Queue-Pseudo\obj\Debug\net7.0\Stack-Queue-Pseudo.csproj.CoreCompileInputs.cache
+F:\Stack-Queue-Pseudo\Stack-Queue-Pseudo\obj\Debug\net7.0\Stack-Queue-Pseudo.dll
+F:\Stack-Queue-Pseudo\Stack-Queue-Pseudo\obj\Debug\net7.0\refint\Stack-Queue-Pseudo.dll
+F:\Stack-Queue-Pseudo\Stack-Queue-Pseudo\obj\Debug\net7.0\Stack-Queue-Pseudo.pdb
+F:\Stack-Queue-Pseudo\Stack-Queue-Pseudo\obj\Debug\net7.0\Stack-Queue-Pseudo.genruntimeconfig.cache
+F:\Stack-Queue-Pseudo\Stack-Queue-Pseudo\obj\Debug\net7.0\ref\Stack-Queue-Pseudo.dll
