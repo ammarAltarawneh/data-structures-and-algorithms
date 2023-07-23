@@ -1,0 +1,15 @@
+F:\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.exe
+F:\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.deps.json
+F:\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.runtimeconfig.json
+F:\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.dll
+F:\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.pdb
+F:\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.csproj.AssemblyReference.cache
+F:\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.GeneratedMSBuildEditorConfig.editorconfig
+F:\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.AssemblyInfoInputs.cache
+F:\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.AssemblyInfo.cs
+F:\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.csproj.CoreCompileInputs.cache
+F:\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.dll
+F:\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\refint\stack-queue-brackets.dll
+F:\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.pdb
+F:\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.genruntimeconfig.cache
+F:\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\ref\stack-queue-brackets.dll
