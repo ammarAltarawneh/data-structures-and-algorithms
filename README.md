@@ -22,3 +22,6 @@
 
 12- Stack Queue Animal Shelter [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/blob/main/stack-queue-animal-shelter/README.md)
 
+13- Stack Queue Brackets [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/blob/main/stack-queue-brackets/README.md)
+
+
