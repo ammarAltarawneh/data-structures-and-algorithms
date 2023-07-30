@@ -1,0 +1,15 @@
+F:\LinkedListInsertion\LinkedListInsertion\bin\Debug\net7.0\LinkedListInsertion.exe
+F:\LinkedListInsertion\LinkedListInsertion\bin\Debug\net7.0\LinkedListInsertion.deps.json
+F:\LinkedListInsertion\LinkedListInsertion\bin\Debug\net7.0\LinkedListInsertion.runtimeconfig.json
+F:\LinkedListInsertion\LinkedListInsertion\bin\Debug\net7.0\LinkedListInsertion.dll
+F:\LinkedListInsertion\LinkedListInsertion\bin\Debug\net7.0\LinkedListInsertion.pdb
+F:\LinkedListInsertion\LinkedListInsertion\obj\Debug\net7.0\LinkedListInsertion.csproj.AssemblyReference.cache
+F:\LinkedListInsertion\LinkedListInsertion\obj\Debug\net7.0\LinkedListInsertion.GeneratedMSBuildEditorConfig.editorconfig
+F:\LinkedListInsertion\LinkedListInsertion\obj\Debug\net7.0\LinkedListInsertion.AssemblyInfoInputs.cache
+F:\LinkedListInsertion\LinkedListInsertion\obj\Debug\net7.0\LinkedListInsertion.AssemblyInfo.cs
+F:\LinkedListInsertion\LinkedListInsertion\obj\Debug\net7.0\LinkedListInsertion.csproj.CoreCompileInputs.cache
+F:\LinkedListInsertion\LinkedListInsertion\obj\Debug\net7.0\LinkedListInsertion.dll
+F:\LinkedListInsertion\LinkedListInsertion\obj\Debug\net7.0\refint\LinkedListInsertion.dll
+F:\LinkedListInsertion\LinkedListInsertion\obj\Debug\net7.0\LinkedListInsertion.pdb
+F:\LinkedListInsertion\LinkedListInsertion\obj\Debug\net7.0\LinkedListInsertion.genruntimeconfig.cache
+F:\LinkedListInsertion\LinkedListInsertion\obj\Debug\net7.0\ref\LinkedListInsertion.dll
