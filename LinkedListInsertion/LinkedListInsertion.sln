@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListInsertion", "LinkedListInsertion\LinkedListInsertion.csproj", "{A06067CF-C7AA-4E26-87AC-24DE79F7AD06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLInsertionTest", "LLInsertionTest\LLInsertionTest.csproj", "{8B300C74-0E2C-40CE-849A-B6D6C2F92888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A06067CF-C7AA-4E26-87AC-24DE79F7AD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06067CF-C7AA-4E26-87AC-24DE79F7AD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06067CF-C7AA-4E26-87AC-24DE79F7AD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06067CF-C7AA-4E26-87AC-24DE79F7AD06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B300C74-0E2C-40CE-849A-B6D6C2F92888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B300C74-0E2C-40CE-849A-B6D6C2F92888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B300C74-0E2C-40CE-849A-B6D6C2F92888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B300C74-0E2C-40CE-849A-B6D6C2F92888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3D61F1F-00E7-47A4-B2EB-C4F18895C92F}
+	EndGlobalSection
+EndGlobal
