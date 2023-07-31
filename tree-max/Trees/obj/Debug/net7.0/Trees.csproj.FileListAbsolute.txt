@@ -1,0 +1,15 @@
+F:\Trees\Trees\bin\Debug\net7.0\Trees.exe
+F:\Trees\Trees\bin\Debug\net7.0\Trees.deps.json
+F:\Trees\Trees\bin\Debug\net7.0\Trees.runtimeconfig.json
+F:\Trees\Trees\bin\Debug\net7.0\Trees.dll
+F:\Trees\Trees\bin\Debug\net7.0\Trees.pdb
+F:\Trees\Trees\obj\Debug\net7.0\Trees.csproj.AssemblyReference.cache
+F:\Trees\Trees\obj\Debug\net7.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+F:\Trees\Trees\obj\Debug\net7.0\Trees.AssemblyInfoInputs.cache
+F:\Trees\Trees\obj\Debug\net7.0\Trees.AssemblyInfo.cs
+F:\Trees\Trees\obj\Debug\net7.0\Trees.csproj.CoreCompileInputs.cache
+F:\Trees\Trees\obj\Debug\net7.0\Trees.dll
+F:\Trees\Trees\obj\Debug\net7.0\refint\Trees.dll
+F:\Trees\Trees\obj\Debug\net7.0\Trees.pdb
+F:\Trees\Trees\obj\Debug\net7.0\Trees.genruntimeconfig.cache
+F:\Trees\Trees\obj\Debug\net7.0\ref\Trees.dll
