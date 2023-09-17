@@ -33,3 +33,5 @@
 18-Tree FizzBuzz [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/blob/main/tree-fizz-buzz/README.md)
 
 19-Hash Table [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/tree/main/Hash_Table_Challenge)
+
+20- Hashmap repeated-word [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/tree/main/Hashmap-repeated-word#readme)
