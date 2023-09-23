@@ -37,3 +37,5 @@
 20- Hashmap repeated-word [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/tree/main/Hashmap-repeated-word#readme)
 
 21- Tree Insertion [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/tree/main/tree-intersection)
+
+21- Hashmap left join [README](https://github.com/ammarAltarawneh/data-structures-and-algorithms/blob/main/Hashmap%20left%20join/README.md)
