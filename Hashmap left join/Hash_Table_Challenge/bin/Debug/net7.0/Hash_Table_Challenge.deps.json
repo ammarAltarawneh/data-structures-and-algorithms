@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Hash_Table_Challenge/1.0.0": {
+        "runtime": {
+          "Hash_Table_Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hash_Table_Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
